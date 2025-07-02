@@ -1,0 +1,14 @@
+good_game,好比赛,hǎo bǐsài
+close_shot,差一点,chà yīdiǎn
+good_rally,好回合,hǎo huíhé
+your_point,你的分,nǐ de fēn
+my_point,我的分,wǒ de fēn
+evenly_matched,旗鼓相当,qígǔ xiāngdāng
+youre_really_good,你很厉害,nǐ hěn lìhài
+that_was_lucky,运气好,yùnqì hǎo
+lets_play_again,再打一局,zài dǎ yī jú
+i_need_a_break,我需要休息,wǒ xūyào xiūxi
+that_was_fast,太快了,tài kuài le
+so_close,好险,hǎo xiǎn
+no_spin,没旋转,méi xuánzhuǎn
+lots_of_spin,旋转很大,xuánzhuǎn hěn dà

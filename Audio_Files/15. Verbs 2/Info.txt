@@ -1,0 +1,10 @@
+to_drive,开车,kāichē
+to_sleep,睡觉,shuìjiào
+to_take,乘坐,chéngzuò
+to_walk,走路,zǒulù
+to_arrive,到达,dàodá
+to_wait,等,děng
+to_leave,离开,líkāi
+to_turn,转弯,zhuǎnwān
+to_stop,停止,tíngzhǐ
+to_travel,旅行,lǚxíng

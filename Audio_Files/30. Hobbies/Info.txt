@@ -1,0 +1,10 @@
+read,读书,dúshū
+write,写,xiě
+sing,唱歌,chànggē
+dance,跳舞,tiàowǔ
+swim,游泳,yóuyǒng
+play,玩,wán
+exercise,锻炼,duànliàn
+watch tv,看电视,kàn diànshì
+music,音乐,yīnyuè
+travel,旅行,lǚxíng

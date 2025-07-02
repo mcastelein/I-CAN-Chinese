@@ -1,0 +1,10 @@
+one_half,一半,yībàn
+zero,零,líng
+twenty,二十,èrshí
+thirty,三十,sānshí
+one_hundred,一百,yībǎi
+one_thousand,一千,yīqiān
+ten_thousand,一万,yīwàn
+one_hundred_thousand,十万,shíwàn
+one_million,一百万,yībǎiwàn
+one_billion,十亿,shíyì

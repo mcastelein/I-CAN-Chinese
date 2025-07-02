@@ -1,0 +1,10 @@
+basketball,篮球,lánqiú
+soccer_football,足球,zúqiú
+table_tennis,乒乓球,pīngpāngqiú
+badminton,羽毛球,yǔmáoqiú
+running,跑步,pǎobù
+swimming,游泳,yóuyǒng
+volleyball,排球,páiqiú
+tennis,网球,wǎngqiú
+martial_arts,武术,wǔshù
+cycling,自行车,zìxíngchē

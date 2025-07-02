@@ -1,0 +1,10 @@
+sunny,晴天,qíngtiān
+rainy,下雨,xiàyǔ
+cloudy,多云,duōyún
+hot,热,rè
+cold,冷,lěng
+windy,有风,yǒu fēng
+spring,春天,chūntiān
+summer,夏天,xiàtiān
+fall,秋天,qiūtiān
+winter,冬天,dōngtiān

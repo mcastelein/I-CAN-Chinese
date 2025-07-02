@@ -1,0 +1,15 @@
+spin,旋转,xuánzhuǎn
+forehand,正手,zhèngshǒu
+backhand,反手,fǎnshǒu
+smash,扣杀,kòushā
+chop,削球,xuēqiú
+loop,弧圈球,húquānqiú
+block,挡球,dǎngqiú
+drive,快攻,kuàigōng
+topspin,上旋,shàngxuán
+backspin,下旋,xiàxuán
+side_spin,侧旋,cèxuán
+paddle,球拍,qiúpāi
+edge_ball,擦边球,cābiānqiú
+double_hit,双击球,shuāngjīqiú
+fault,失误,shīwù

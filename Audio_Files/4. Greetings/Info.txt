@@ -1,0 +1,10 @@
+hello,你好,nǐ hǎo
+goodbye,再见,zàijiàn
+please,请,qǐng
+thank you,谢谢,xièxiè
+sorry,对不起,duìbuqǐ
+yes,是,shì
+no,不是,bú shì
+excuse me,劳驾,láo jià
+good morning,早上好,zǎoshang hǎo
+good night,晚安,wǎn'ān

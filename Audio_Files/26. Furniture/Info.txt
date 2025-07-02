@@ -1,0 +1,10 @@
+table,桌子,zhuōzi
+chair,椅子,yǐzi
+bed,床,chuáng
+sofa,沙发,shāfā
+desk,书桌,shūzhuō
+shelf,书架,shūjià
+cabinet,柜子,guìzi
+lamp,灯,dēng
+mirror,镜子,jìngzi
+wardrobe,衣柜,yīguì

@@ -1,0 +1,12 @@
+prosperity,富强,fùqiáng
+democracy,民主,mínzhǔ
+civility,文明,wénmíng
+harmony,和谐,héxié
+freedom,自由,zìyóu
+equality,平等,píngděng
+justice,公正,gōngzhèng
+rule_of_law,法治,fǎzhì
+patriotism,爱国,àiguó
+dedication,敬业,jìngyè
+integrity,诚信,chéngxìn
+friendship,友善,yǒushàn

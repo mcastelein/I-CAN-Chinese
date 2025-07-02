@@ -1,0 +1,15 @@
+mountain,山,shān
+river,河,hé
+lake,湖,hú
+ocean,海洋,hǎiyáng
+forest,森林,sēnlín
+tree,树,shù
+sky,天空,tiānkōng
+cloud,云,yún
+rain,雨,yǔ
+snow,雪,xuě
+sun,太阳,tàiyáng
+moon,月亮,yuèliàng
+earth,地球,dìqiú
+island,岛,dǎo
+valley,山谷,shāngǔ

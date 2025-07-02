@@ -1,0 +1,10 @@
+car,车,chē
+bus,公交车,gōngjiāochē
+train,火车,huǒchē
+bicycle,自行车,zìxíngchē
+subway,地铁,dìtiě
+taxi,出租车,chūzūchē
+ticket,票,piào
+airport,机场,jīchǎng
+station,车站,chēzhàn
+ship,船,chuán

@@ -1,0 +1,10 @@
+kind,善良,shànliáng
+brave,勇敢,yǒnggǎn
+funny,有趣,yǒuqù
+serious,严肃,yánsù
+lazy,懒惰,lǎnduò
+hardworking,勤奋,qínfèn
+friendly,友好,yǒuhǎo
+honest,诚实,chéngshí
+generous,慷慨,kāngkǎi
+patient,耐心,nàixīn

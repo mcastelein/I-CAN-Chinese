@@ -1,0 +1,10 @@
+family,家人,jiārén
+mother,妈妈,māma
+father,爸爸,bàba
+older_sister,姐姐,jiějie
+older_brother,哥哥,gēge
+younger_sister,妹妹,mèimei
+younger_brother,弟弟,dìdi
+child,孩子,háizi
+husband,老公,lǎogōng
+wife,老婆,lǎopó

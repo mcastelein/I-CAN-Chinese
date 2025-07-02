@@ -1,0 +1,10 @@
+money,钱,qián
+expensive,贵,guì
+cheap,便宜,piányi
+price,价格,jiàgé
+to_buy,买,mǎi
+to_sell,卖,mài
+market,市场,shìchǎng
+store,商店,shāngdiàn
+credit_card,信用卡,xìnyòngkǎ
+cash,现金,xiànjīn

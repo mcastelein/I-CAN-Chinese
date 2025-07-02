@@ -1,0 +1,10 @@
+blueberry,蓝莓,lánméi
+peach,桃子,táozi
+lychee,荔枝,lìzhī
+durian,榴莲,liúlián
+lemon,柠檬,níngméng
+avocado,牛油果,niúyóuguǒ
+kiwi,猕猴桃,míhóutáo
+dragonfruit,火龙果,huǒlóngguǒ
+grapefruit,柚子,yòuzi
+passionfruit,百香果,bǎixiāngguǒ

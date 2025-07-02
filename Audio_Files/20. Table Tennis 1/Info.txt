@@ -1,0 +1,10 @@
+table_tennis,乒乓球,pīngpāngqiú
+net_ball,擦网球,cāwǎngqiú
+good_shot,好球,hǎoqiú
+your_serve,你发球,nǐ fāqiú
+my_serve,我发球,wǒ fāqiú
+switch_sides,换边,huànbiān
+let,重发,chóng fā
+match_point,赛点,sàidiǎn
+deuce,平分,píngfēn
+rally,回合,huíhé

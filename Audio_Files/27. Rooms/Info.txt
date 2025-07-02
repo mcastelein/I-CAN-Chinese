@@ -1,0 +1,10 @@
+kitchen,厨房,chúfáng
+bathroom,浴室,yùshì
+living room,客厅,kètīng
+bedroom,卧室,wòshì
+garden,花园,huāyuán
+balcony,阳台,yángtái
+dining room,餐厅,cāntīng
+garage,车库,chēkù
+hallway,走廊,zǒuláng
+basement,地下室,dìxiàshì

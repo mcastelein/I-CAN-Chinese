@@ -1,0 +1,15 @@
+china,中国,Zhōngguó
+united_states,美国,Měiguó
+russia,俄罗斯,Éluósī
+india,印度,Yìndù
+japan,日本,Rìběn
+south_korea,韩国,Hánguó
+united_kingdom,英国,Yīngguó
+germany,德国,Déguó
+france,法国,Fàguó
+australia,澳大利亚,Àodàlìyà
+brazil,巴西,Bāxī
+canada,加拿大,Jiānádà
+vietnam,越南,Yuènán
+north_korea,朝鲜,Cháoxiǎn
+thailand,泰国,Tàiguó

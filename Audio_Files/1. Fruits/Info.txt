@@ -1,0 +1,10 @@
+apple,苹果,píngguǒ
+banana,香蕉,xiāngjiāo
+dragonfruit,火龙果,huǒlóngguǒ
+grape,葡萄,pútao
+lychee,荔枝,lìzhī
+mandarin,橘子,júzi
+pear,梨,lí
+persimmon,柿子,shìzi
+pomegranate,石榴,shíliu
+watermelon,西瓜,xīguā

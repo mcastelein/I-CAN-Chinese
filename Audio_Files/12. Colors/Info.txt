@@ -1,0 +1,10 @@
+red,红色,hóngsè
+blue,蓝色,lánsè
+green,绿色,lǜsè
+yellow,黄色,huángsè
+black,黑色,hēisè
+white,白色,báisè
+pink,粉色,fěnsè
+purple,紫色,zǐsè
+orange,橙色,chéngsè
+gray,灰色,huīsè

@@ -1,0 +1,10 @@
+head,头,tóu
+eye,眼睛,yǎnjing
+nose,鼻子,bízi
+mouth,嘴巴,zuǐba
+ear,耳朵,ěrduo
+hand,手,shǒu
+arm,手臂,shǒubì
+leg,腿,tuǐ
+foot,脚,jiǎo
+stomach,肚子,dùzi

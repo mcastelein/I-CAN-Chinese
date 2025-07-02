@@ -1,0 +1,10 @@
+to_go,去,qù
+to_eat,吃,chī
+to_drink,喝,hē
+to_walk,走,zǒu
+to_run,跑,pǎo
+to_jump,跳,tiào
+to_sit,坐,zuò
+to_stand,站,zhàn
+to_read,读,dú
+to_write,写,xiě

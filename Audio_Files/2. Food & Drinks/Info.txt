@@ -1,0 +1,10 @@
+rice,米饭,mǐfàn
+noodles,面条,miàntiáo
+vegetable,蔬菜,shūcài
+fruit,水果,shuǐguǒ
+meat,肉,ròu
+fish,鱼,yú
+bread,面包,miànbāo
+water,水,shuǐ
+tea,茶,chá
+coffee,咖啡,kāfēi

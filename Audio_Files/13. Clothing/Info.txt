@@ -1,0 +1,10 @@
+shirt,衬衫,chènshān
+pants,裤子,kùzi
+dress,连衣裙,liányīqún
+hat,帽子,màozi
+shoes,鞋,xié
+socks,袜子,wàzi
+jacket,夹克,jiākè
+scarf,围巾,wéijīn
+gloves,手套,shǒutào
+belt,腰带,yāodài

@@ -1,0 +1,11 @@
+mathematics,数学,shùxué
+statistics,统计学,tǒngjìxué
+addition,加法,jiāfǎ
+subtraction,减法,jiǎnfǎ
+multiplication,乘法,chéngfǎ
+division,除法,chúfǎ
+equation,方程,fāngchéng
+equals,等于,děngyú
+fraction,分数,fēnshù
+percentage,百分比,bǎifēnbǐ
+decimal,小数,xiǎoshù

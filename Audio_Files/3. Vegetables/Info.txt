@@ -1,0 +1,10 @@
+potato,土豆,tǔdòu
+carrot,胡萝卜,húluóbo
+tomato,西红柿,xīhóngshì
+cucumber,黄瓜,huángguā
+onion,洋葱,yángcōng
+garlic,大蒜,dàsuàn
+broccoli,西兰花,xīlánhuā
+spinach,菠菜,bōcài
+mushroom,蘑菇,mógu
+pepper,辣椒,làjiāo

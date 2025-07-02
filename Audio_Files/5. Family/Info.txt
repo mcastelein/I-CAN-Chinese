@@ -1,0 +1,10 @@
+mother,妈妈,māma
+father,爸爸,bàba
+sister,姐姐,jiějie
+brother,哥哥,gēge
+friend,朋友,péngyǒu
+teacher,老师,lǎoshī
+child,孩子,háizi
+husband,丈夫,zhàngfu
+wife,妻子,qīzi
+family,家人,jiārén
