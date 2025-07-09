@@ -1,3 +1,3 @@
 Does this gif work?
 
-I_CAN_Chinese_Streamlit.gif
+![Demo](I_CAN_Chinese_Streamlit.gif)
